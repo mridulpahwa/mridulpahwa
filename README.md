@@ -8,7 +8,7 @@
 
 Hey! I'm Mridul, a passionate programmer and full-stack web developer with leadership skills. I want to make the world a better place through technology. I'm a former Google Intern in a CoreML Team and I am a part of various tech initiatives at Florida International University.
 
-- **Prev.STEP Intern @ Google** (May 2024 - August 2024)
+- **Prev. STEP Intern @ Google** (May 2024 - August 2024)
   - Location: Sunnyvale, California
   - Migrated an API at the core of UI for Google-wide ML ops platform. Developed the backend infrastructure to improve the 
     UI.
