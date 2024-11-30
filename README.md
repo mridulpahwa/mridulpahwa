@@ -1,7 +1,8 @@
 # Mridul Pahwa
 
 
-🌍 [LinkedIn] (https://www.linkedin.com/in/mridul-pahwa/)
+🌍 [LinkedIn](https://www.linkedin.com/in/mridul-pahwa/)
+
 
 ## About Me
 
@@ -17,4 +18,4 @@ Hey! I'm Mridul, a passionate programmer and full-stack web developer with leade
   - Teaching weekly professional development workshops including technical development , web development, and hosting company sponsor events on campus.
   - Leading over 100 students to develop a full stack portfolio website using React.js, Node.js, HTML,CSS, JavaScript.
 
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/david-ulloa-785396184/) for more details about my projects and experiences.
